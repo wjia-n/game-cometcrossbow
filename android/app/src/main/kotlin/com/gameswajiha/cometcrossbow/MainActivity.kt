@@ -1,4 +1,4 @@
-package com.gameswajiha.tictactoe
+package com.gameswajiha.cometcrossbow
 
 import io.flutter.embedding.android.FlutterActivity
 
